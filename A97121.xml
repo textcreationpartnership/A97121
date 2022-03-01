@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of the late Lieutenant General Talmach a poem humbly dedicated to her Grace, the Dutchess of Lauderdale / by E. Ward, Gent.</title>
+            <author>Ward, Edward, 1667-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97121</idno>
+            <idno type="STC">Wing W747A</idno>
+            <idno type="STC">ESTC R42801</idno>
+            <idno type="EEBO-CITATION">38875772</idno>
+            <idno type="OCLC">ocm 38875772</idno>
+            <idno type="VID">152485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152485)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2298:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of the late Lieutenant General Talmach a poem humbly dedicated to her Grace, the Dutchess of Lauderdale / by E. Ward, Gent.</title>
+                  <author>Ward, Edward, 1667-1731.</author>
+               </titleStmt>
+               <extent>[2], 2-4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for, and sold by James Blackwel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tollemache, Thomas, 1651?-1694 --  Poetry.</term>
+               <term>Lauderdale, Elizabeth Murray Maitland, --  Duchess of, d. 1697.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152485:1"/>
+            <p>ON THE DEATH Of the Late Lieutenant General TALMACH, A POEM.</p>
+            <p>Humbly <hi>Dedicated</hi> to her GRACE the <hi>Dutcheſs of Lauderdale,</hi>
+            </p>
+            <p>By <hi>E. Ward,</hi> Gent.</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for, and Sold by <hi>James Blackwel,</hi> at <hi>Bernards-Inn-Gate, Holbourn,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:152485:2"/>
+            <head>On the Death of the late Lieutenant Gene<g ref="char:EOLhyphen"/>ral <hi>TALMACH.</hi>
+            </head>
+            <lg>
+               <l>AS ſturdy Oak its Tow'ring branches ſhoot,</l>
+               <l>Nouriſh'd by ſap drawn from a noble Root,</l>
+               <l>May, for a time, (by its defenſive Arms)</l>
+               <l>Survive the Dangers of deſtructive Storms;</l>
+               <l>Till ſome chance Thunder, from a Cloud, ſhall wound</l>
+               <l>Th' aſpiring Plant, and rend it to the ground:</l>
+               <l>Thus ſhatter'd, mourn'd it lyes, with Earth laid even,</l>
+               <l>Whoſe lofty Boughs once play'd 'twixt us and Heaven.</l>
+            </lg>
+            <lg>
+               <l>So fell brave <hi>Talmach,</hi> from a <hi>Stock</hi> deriv'd,</l>
+               <l>Ancient as <hi>Laws,</hi> within whoſe bounds he liv'd:</l>
+               <l>His <hi>Anceſtors</hi> in FAME's Records took place,</l>
+               <l>Crown'd with high Honours 'mong the <hi>Norman</hi> Race;</l>
+               <l>Whoſe Aid (in that old memorable War)</l>
+               <l>Taught their great PRINCE to be a Conqueror;</l>
+               <lg>
+                  <l>And rais'd him to a Pyramid of <hi>Fame,</hi>
+                  </l>
+                  <l>By brave <hi>Attempts</hi> they truly Great became,</l>
+                  <l>
+                     <hi>Bentley</hi>
+                     <note place="margin">Bentley <hi>in</hi> Suf<g ref="char:EOLhyphen"/>folk.</note> their Seat, and <hi>Talmach</hi> then their Name.</l>
+               </lg>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Thus did their Line in ſtreams of <hi>Brav'ry</hi> run,</l>
+                  <l>Ending in <hi>Glory,</hi> as their <hi>Race</hi> begun,</l>
+                  <l>Great their fore-Fathers, great their Warlike Son;</l>
+               </lg>
+               <l>Whoſe bold undaunted Soul was ever free</l>
+               <l>To face all <hi>Dangers,</hi> and dare <hi>Deſtiny:</hi>
+               </l>
+               <l>Thro' clouds of Smoak, where ſulph'rous Fames aroſe</l>
+               <l>Lighting the Vanquiſh'd to their laſt Repoſe:</l>
+               <l>Through ſtorms of flying <hi>Deaths;</hi> he boldly paſt,</l>
+               <l>Scorning the Balls from Wars loud Engines caſt;</l>
+               <l>But ſtill preſs'd on, till he had bravely ſhown,</l>
+               <l>What by a Gallant <hi>Hero</hi> might be done,</l>
+               <l>And in each <hi>Action</hi> (haſty to be great)</l>
+               <l>Show'd Reſolution to be Fortunate.</l>
+            </lg>
+            <lg>
+               <l>When <hi>England</hi> (careleſs doting on her Eaſe,</l>
+               <l>Wrap'd up in <hi>Riches, Luxurie,</hi> and <hi>Peace</hi>)</l>
+               <l>Grew negligent and wanton, void of care,</l>
+               <l>Proving an Enemy to none but War;</l>
+               <l>Which <hi>France</hi> obſerv'd, grew Inſolent and Proud,</l>
+               <l>Rais'd up her head, (who long to us had bow'd)</l>
+               <l>Caſting on, <hi>Europe</hi> a devouring eye;</l>
+               <l>Whilſt blinded <hi>Albion</hi> ſtood regardleſs by,</l>
+               <l>Till watchful <hi>Providence</hi> ſtep'd in between,</l>
+               <l>Acted her part, and chang'd the frightful Scene:</l>
+               <l>None then (by the <hi>
+                     <g ref="char:V">Ʋ</g>nited Crowns</hi>) was thought</l>
+               <l>So fit as <hi>Talmach,</hi> for a brave Exploit,</l>
+               <pb n="3" facs="tcp:152485:3"/>
+               <l> To ſtrike at <hi>France,</hi> and dare thoſe threatning Frowns,</l>
+               <l>Eclips'd the Glories of her Neighbouring Thrones.</l>
+            </lg>
+            <lg>
+               <l>In order to Effect the great Deſign,</l>
+               <l>Dangerous t'attempt, ignoble to decline,</l>
+               <l>He hoiſts up Sail, to the <hi>French</hi> Coaſt he Steers;</l>
+               <l>Urg'd by no Vanity, nor held by Fears;</l>
+               <l>Mov'd by unbias'd thoughts, he cooly weighs</l>
+               <l>The little proſpect of a great Succeſs,</l>
+               <l>Reſolving (what Repulſe ſo e're was given)</l>
+               <l>To bravely Act, with confidence in Heaven.</l>
+            </lg>
+            <lg>
+               <l>Big with encreaſing Hope he ſhould prevail,</l>
+               <l>He Ploughs the Ocean with a proſp'rous Gale,</l>
+               <l>And nimbly to the wiſh'd for ſhore he run,</l>
+               <l>Where Life was to be loſt, or Conqueſt won;</l>
+               <l>His ſoul enliven'd with a generous thought,</l>
+               <l>
+                  <hi>That laſting Glories muſt be nobly bought,</hi>
+               </l>
+               <l>Made him reſolve, when the great Work began,</l>
+               <l>To Act like ſomething greater than a Man.</l>
+            </lg>
+            <lg>
+               <l>Now the whole <hi>Fleet,</hi> with ſwelling Sails, were brought</l>
+               <l>Near to that Shore, for which the <hi>Hero</hi> ſought,</l>
+               <l>His loud mouth'd <hi>Agents</hi> roar'd out his Command,</l>
+               <l>And gave the Signal to prepare for Land;</l>
+               <l>Whilſt ev'ry Soldier fearleſs of the Grave,</l>
+               <l>Took up a Reſolution to be Brave:</l>
+               <l>The <hi>Active</hi> Gen'ral, leaping on the Strand,</l>
+               <l>Firſt took poſſeſſion of the promis'd Land,</l>
+               <lg>
+                  <l>Where the ſly Foe ruſh'd from an <hi>Ambuſcade,</hi>
+                  </l>
+                  <l>From hidden Batt'rys roaring Engines play'd,</l>
+                  <l>Defeating all the projects he had lay'd:</l>
+               </lg>
+               <l>The reſtleſs Sea in Mountains did ariſe,</l>
+               <l>As if affrighted at the dreadful noiſe;</l>
+               <l>Ill boding Clouds in Monſtrous ſhapes appear'd,<note place="margin">A Storm aroſe.</note>
+               </l>
+               <l>And hollow Winds, by trembling Sailors heard;</l>
+               <l>Nature, unhing'd in all things, look'd awry,</l>
+               <l>To ſhow the Fate of ſome great Man was nigh:</l>
+               <l>Surpriſe and Terrour now their hopes o'er-caſt,</l>
+               <l>Death threatning ev'ry Landed Soldiers laſt;</l>
+               <l>Whilſt the brave <hi>Talmach</hi> ſtill undaunted ſtood,</l>
+               <l>Fearing the loſs of <hi>Honour,</hi> more than <hi>Blood;</hi>
+               </l>
+               <l>Till <hi>Providence,</hi> by ſome neglect, gave way</l>
+               <l>For <hi>Envy</hi> her Miſchievous Pranks to play,</l>
+               <l>Preſſing through Dangers, which he ſcorn'd to fear,</l>
+               <l>Met a <hi>Deſtructive Meſſenger</hi> of War,</l>
+               <l>Which nobly he receiv'd, unmov'd in thought,</l>
+               <l>Smil'd at the dreadful Meſſage which he brought;</l>
+               <l>And bleeding Fought, till Nature Strength deny'd,</l>
+               <l>To ſhow that Courage; he was forc'd to hide,</l>
+               <l>But ſtill alive was born away with Joy,</l>
+               <l>As old <hi>Anchiſes</hi> through the Flames of <hi>Troy,</hi>
+               </l>
+               <pb n="4" facs="tcp:152485:4"/>
+               <l> Down to his Bark, where full of pains he lay,</l>
+               <l>Tumbling on Surges of an angry Sea;</l>
+               <l>Where gaping Waves, impatient of their Prey,</l>
+               <l>Seem'd eager to intomb ſo Rich a Clay.</l>
+            </lg>
+            <lg>
+               <l>Thus through a toſſing Tempeſt was he brought</l>
+               <l>Back from the fatal Sands, whereon he Fought,</l>
+               <l>To <hi>Plimouth,</hi> where his Soul from Cares withdrew,</l>
+               <l>Shook off her Robes of Earth, and bid adieu;</l>
+               <l>Leaving behind a Memory ſo great,</l>
+               <l>Will bury <hi>Monuments,</hi> and out-live <hi>Fate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Wiſdom,</hi> in all his <hi>Actions,</hi> was his Guide,</l>
+               <l>
+                  <hi>Patience</hi> his Care, and <hi>Worthineſs</hi> his Pride:</l>
+               <l>No Enterpriſe, in War, by him begun,</l>
+               <l>Was through neglect e're loſt, or Raſhneſs won:</l>
+               <l>No Prince, but his, had ſuch a Friend to truſt,</l>
+               <l>So Truly <hi>
+                     <g ref="char:V">Ʋ</g>aliant, Merciful,</hi> and <hi>Juſt,</hi>
+               </l>
+               <l>In Conduct <hi>Wiſe,</hi> in Converſation <hi>Grave,</hi>
+               </l>
+               <l>
+                  <hi>Generous</hi> in Conqueſt, and in Battle <hi>Brave;</hi>
+               </l>
+               <l>In his Command <hi>Good, Affable,</hi> and <hi>Kind,</hi>
+               </l>
+               <l>
+                  <hi>Moral in Acts,</hi> and of a <hi>Noble Mind,</hi>
+               </l>
+               <l>
+                  <hi>Loyal</hi> to's Prince, and to his Countrey <hi>Juſt,</hi>
+               </l>
+               <l>True to his Friend, and <hi>Faithful</hi> to his Truſt:</l>
+               <l>Whoſe Memorable <hi>Deeds</hi> ſhall Deathleſs be,</l>
+               <l>Riſe with his Duſt, and face <hi>Eternity.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
